@@ -1,0 +1,118 @@
+.navsection{
+    font-weight: bold;
+    background:rgb(231, 239, 199);
+;
+}
+.nav-link {
+    color: black !important;
+}
+
+#aboutme{
+    background:rgb(174, 200, 164);
+}
+.myphoto{
+    border:3px solid black;
+    border-radius: 10%;
+    box-shadow: 5px 5px;
+    background:rgb(231, 239, 199);
+}
+.myphoto:hover{
+    transform: translate(-1px,-1px);
+    border:3px solid black;
+    border-radius: 10%;
+    box-shadow: 5px 5px;
+
+
+}
+.dpmenu{
+    border-radius:20px !important;
+    background-color: rgb(138, 120, 78) !important;
+    border:3px solid black !important;
+    box-shadow: 4px 4px;
+}
+.dpmenu {
+  width: auto !important;
+  min-width: unset !important;
+  max-width: 50px !important;
+  padding: 5px 8px;
+  border-radius: 12px;
+
+}
+
+.dpmenu .dropdown-item {
+  padding: 4px 6px;
+}
+
+.dropdown-item:hover {
+  color: rgb(231, 239, 199);
+  background-color:rgb(231, 239, 199);
+  border-radius: 10px;
+}
+
+
+
+.dropdown-toggle:hover {
+  background-color: rgb(138, 120, 78);
+}
+
+
+.whatido{
+    background:rgb(174, 200, 164);
+}
+.box{
+    border:3px solid black;
+    border-radius:25px;
+    box-shadow:5px 5px;
+    background:rgb(231, 239, 199);
+}
+.box:hover{
+    transform: translate(-4px,-4px);
+    color:white;
+    background:rgb(138, 120, 78);
+    border:3px solid black;
+    box-shadow:5px 5px black;
+}
+#Projects{
+    background:rgb(174, 200, 164);
+}
+.projimg{
+    border-radius: 5%;
+    border:4px solid black;
+    box-shadow: 6px 6px;
+}
+.projimg:hover{
+    transform:translate(-4px,-4px);
+    border:4px solid black;
+    box-shadow: 6px 6px black;
+
+}
+.projbutton {
+  border: 3px solid black !important;
+  border-radius: 999px !important;
+  box-shadow: 5px 5px !important;
+  background-color: rgb(231, 239, 199) !important;
+  color: black !important;
+  font-weight: bold !important;
+  
+}
+.projbutton:hover{
+  transform: translate(-4px,-4px) !important;
+  border: 3px solid black !important;
+  border-radius: 999px !important;
+  box-shadow: 5px 5px black!important;
+  background-color: rgb(138, 120, 78) !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+.projbutton a {
+  text-decoration: none;
+  color: black;
+}
+
+.projbutton:hover a {
+  color: white;
+}
+
+#footer{
+    background:rgb(231, 239, 199);
+}
